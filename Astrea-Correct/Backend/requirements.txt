@@ -1,0 +1,8 @@
+# File: backend/requirements.txt
+
+flask
+transformers
+torch
+nltk
+sentencepiece
+gunicorn
