@@ -1,0 +1,46 @@
+# Flutter
+build/
+.dart_tool/
+.packages
+.pub/
+
+# Android
+android/.gradle/
+android/app/build/
+android/local.properties
+
+# iOS
+ios/Pods/
+
+# Signing Keys
+*.jks
+key.properties
+
+# IDE Files
+*.iml
+.vscode/
+
+# Firebase
+google-services.json
+firebase-adminsdk.json
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment Files
+.env
+
+# AI Models
+models/
+*.pt
+*.bin
+*.ckpt
+*.safetensors
+
+# Logs
+*.log
+
+# Git
+.git/
