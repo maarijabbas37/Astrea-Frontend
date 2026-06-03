@@ -1,5 +1,5 @@
 ---
-title: Grammar Genie API
+title: Astrea Correct
 emoji: 🧞
 colorFrom: blue
 colorTo: purple
